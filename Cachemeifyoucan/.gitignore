@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+backend.log
+backend/.env
+venv/
+backend/venv/

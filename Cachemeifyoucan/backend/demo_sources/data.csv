@@ -1,0 +1,5 @@
+table_id,row_index,col_index,value
+Table 1,1,1,Operating Costs
+Table 1,1,2,50000
+Table 2,3,Efficacy,99%
+Table 2,4,Errors,1%

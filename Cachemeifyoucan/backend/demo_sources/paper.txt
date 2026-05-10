@@ -1,0 +1,4 @@
+The main finding of this 2023 study represents a massive leap forward.
+The new architecture improves latency by 20% compared to baseline.
+Table 2 details the Efficacy at 99%.
+This supersedes previous research and indicates global warming policy should adapt.
